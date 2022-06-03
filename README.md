@@ -19,14 +19,12 @@ E-Commerce website(back-end), configuring a working Express.js API to use Sequal
 
 
 ## Installation
-
+After cloning, sign in to mysql, run seed, and source schema, then npm start.
 
 ## Usage
 This application can be used for companies who want to compete with other e-commerce companies.
-screenshot and video coming soon...
-![alt text](...)
 Click on this link to view it in action
-[video](...)
+[video](https://youtu.be/QtHyPnrqXf8)
 
 ## Contributing
 Please see contact information below to inquire about contributing to this project.
@@ -51,5 +49,6 @@ This is my name and contact info. If you have questions, please reach out!
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 </div>
